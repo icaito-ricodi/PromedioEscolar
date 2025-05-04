@@ -74,6 +74,6 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 Tu Nombre: Ricardo Diosdado Herrera (*ricodi-icaito*)
 Contactame: (https://forms.gle/BDHXrtLWut9Uy8Qe8)
-[GitHub](https://github.com/ricode-icaito)
-[Correo Electrónico](rickydios27@gmail.com)
+[GitHub](https://github.com/icaito-ricodi)
+[Correo Electrónico](ricadios27@gmail.com)
 ---
